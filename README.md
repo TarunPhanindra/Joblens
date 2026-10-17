@@ -159,6 +159,13 @@ These artifacts support résumé generation and file saving in earlier test scen
 
 **Generated résumés remain subject to human review. No application submission is demonstrated by these artifacts.**
 
+[View a sample generated résumé](examples/sample-generated-resume.pdf)
+
+This PDF was produced during an earlier résumé-generation test.
+Its name and contact header were partially masked afterward for
+publication; the professional content was preserved. It is separate
+from execution #371 and remains subject to human review.
+
 ## What I learned
 
 - A successful execution must be interpreted within its actual scope.
