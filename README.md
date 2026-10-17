@@ -64,14 +64,14 @@ The workflow includes separate storage paths for valid job records and failed ev
 Retrieving listings, normalizing job data, checking existing records,
 applying preliminary filters, and preparing a bounded evaluation batch.
 
-![JobLens discovery and evaluation loop](screenshots/joblens-discovery.png)
+![JobLens discovery and evaluation loop](joblens-discovery.png)
 
 ### Validation, eligibility, and résumé generation
 
 Model-output validation, invalid-evaluation handling, eligibility routing,
 and the résumé pipeline through PDF generation and saving for review.
 
-![JobLens validation and résumé pipeline](screenshots/joblens-validation-resume.png)
+![JobLens validation and résumé pipeline](joblens-validation-resume.png)
 
 These screenshots illustrate the workflow architecture. Test coverage
 and observed execution results are documented separately below.
