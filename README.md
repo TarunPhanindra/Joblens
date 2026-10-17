@@ -179,11 +179,12 @@ These artifacts support résumé generation and file saving in earlier test scen
 
 ## Running the project
 
-The workflow export and verified setup instructions are being prepared.
+Follow the [setup guide](docs/setup.md) to configure services,
+import the workflow, connect Ollama, create the data tables,
+and prepare résumé output storage.
 
-The local system uses n8n, Ollama with the configured Qwen3 model, n8n Data Tables, and Gotenberg for résumé conversion.
-
-Reproduction documentation will specify the exact model tag, runtime versions, table schemas, candidate-profile configuration, service connections, and test procedure.
+The guide reflects the exported workflow and local configuration.
+A clean installation following these instructions has not yet been tested.
 
 ## Next steps
 
